@@ -1,0 +1,9 @@
+
+VS2015 下载地址
+https://blog.csdn.net/youshijian99/article/details/80163739
+
+VS2015安装教程
+https://blog.csdn.net/childbor/article/details/81286534
+
+Win10+VS2015下配置OpenCV3.2教程
+https://jingyan.baidu.com/article/4b52d702b3209afc5c774b3c.html
